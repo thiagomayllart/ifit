@@ -7,10 +7,11 @@ Buscamos com esse projeto desenvolver um serviço que facilite o acesso de todas
 **Integrantes**
 
 * Bruno Sergio Procopio Junior
+* Guilherme da Silva Oliveira
 * Guilherme Eduardo Martins do Amaral
-* Guilherme
 * Rafael Rodrigues Giacomo
 * Thiago Mayllart Macedo Silva
+
 
 **CodeClimate Badge**
 
@@ -23,6 +24,7 @@ Buscamos com esse projeto desenvolver um serviço que facilite o acesso de todas
 
 **Pivotal Tracker Link**
 
+https://www.pivotaltracker.com/n/projects/1793037
 
-###### Este projeto será desenvolvido ao longo do semestre para as disciplinas de Resolução de Problemas II e Engenharia de Software I.
+###### Este projeto será desenvolvido ao longo do semestre para as disciplinas de Engenharia de Software I e Resolução de Problemas II. 
 
