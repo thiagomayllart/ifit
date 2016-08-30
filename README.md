@@ -6,11 +6,12 @@ Buscamos com esse projeto desenvolver um serviço que facilite o acesso de todas
 
 **Integrantes**
 
-* Bruno Sergio Procopio Junior
-* Guilherme da Silva Oliveira
-* Guilherme Eduardo Martins do Amaral
-* Rafael Rodrigues Giacomo
-* Thiago Mayllart Macedo Silva
+* Bruno Sergio Procopio Junior NºUSP 8921217
+* Edson Franco Okuda NºUSP 449049
+* Guilherme da Silva Oliveira NºUSP 8921711
+* Guilherme Eduardo Martins do Amaral NºUSP 9074782 
+* Rafael Rodrigues Giacomo NºUSP 9019275
+* Thiago Mayllart Macedo Silva NºUSP 9004417
 
 
 **CodeClimate Badge**
